@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ParallaxEffect/static/css/main.2e5355e3.css",
+    "main.js": "/ParallaxEffect/static/js/main.5135f3e4.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ParallaxEffect/static/js/787.d4aba7ab.chunk.js",
+    "static/media/water2.jpg": "/ParallaxEffect/static/media/water2.8fc3c19e12f03adb957f.jpg",
+    "static/media/water0.jpg": "/ParallaxEffect/static/media/water0.a08baf7a5dac6f2bc1c0.jpg",
+    "static/media/water4.jpg": "/ParallaxEffect/static/media/water4.1a94c88c65558fc1289a.jpg",
+    "index.html": "/ParallaxEffect/index.html",
+    "main.2e5355e3.css.map": "/ParallaxEffect/static/css/main.2e5355e3.css.map",
+    "main.5135f3e4.js.map": "/ParallaxEffect/static/js/main.5135f3e4.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ParallaxEffect/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5355e3.css",
+    "static/js/main.5135f3e4.js"
+  ]
+}
